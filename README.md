@@ -35,6 +35,8 @@ Coordenação
 
 >Universidade Federal de Viçosa - campus UFV Florestal;
 
+>Lattes: http://lattes.cnpq.br/0350870742674959
+
 >http://www.labee.caf.ufv.br/.
 
 Bolsistas 
