@@ -8,16 +8,14 @@ Para jogar:
 * Baixe ou clone o repositório para sua máquina. Certifíque-se de que todos os arquivos estarão na mesma pasta;
 * Clique em 'Laboratório de Biologia Molecular.exe';
 * Jogue e se divirta, não se esqueça de ler tudo o que os NPC's lhe informarem para tirar maior proveito da experiência;
-* Caso tenha alguma dúvida, sugestão ou crítica enviar pelos e-mails: helder.resende@ufv.br ou caioamcampos@gmail.com.
+* Caso tenha alguma dúvida, sugestão ou crítica enviar pelos e-mails: helder.resende@ufv.br, marcela.cqb@gmail.com ou caioamcampos@gmail.com.
 
 # Equipe de desenvolvimento:
 
 
 Coordenação
 -
-* Ciência da Computação
-
->Profa. Dra. Gláucia Braga e Silva;
+* Profa. Dra. Gláucia Braga e Silva
 
 >Núcleo de Pesquisa em Engenhaira de Software e Sistemas Colaborativos;
 
@@ -27,9 +25,7 @@ Coordenação
 
 >http://nupessc.caf.ufv.br/.
 
-* Ciências Biologicas
-
->Prof. Dr. Helder Canto Resende;
+* Prof. Dr. Helder Canto Resende
 
 >Laboratório de Genética da Conservação;
 
@@ -41,26 +37,30 @@ Coordenação
 
 Bolsistas 
 -
-* Desenvolvimento do laboratório
+* Caio Augusto Moreira
 
->Caio Augusto Moreira;
+>Desenvolvimento do laboratório;
 
 >Graduando em Ciência da Computação;
 
 >Desenvoldedor.
 
 >Universidade Federal de Viçosa - campus Florestal;
+
 >LinkedIn: www.linkedin.com/in/caioamcampos
 
-* Pesquisa em enino e roteiro
+> Email: caioamcampos@gmail.com
 
->Marcela Quiróz
+* Marcela C. de Queiroz Benvenu
+> Pesquisa em enino e roteiro
 
 >Graduanda em Ciências Biológicas
 
 >Pesquisadora educacional.
 
 >Universidade Federal de Viçosa - campus Florestal;
+
+>Email: marcela.cqb@gmail.com
 
 Apoio e Financiamento: Universidade Federal de Viçosa.
 -
