@@ -25,19 +25,19 @@ Universidade Federal de Viçosa - campus UFV Florestal;
 
 http://nupessc.caf.ufv.br/.
 
-- Prof. Dr. Helder Canto Resende;
+>Prof. Dr. Helder Canto Resende;
 
-Laboratório de Genética da Conservação;
+>Laboratório de Genética da Conservação;
 
-Instituto de Ciências Biológicas e da Saúde;
+>Instituto de Ciências Biológicas e da Saúde;
 
-Universidade Federal de Viçosa - campus UFV Florestal;
+>Universidade Federal de Viçosa - campus UFV Florestal;
 
 http://www.labee.caf.ufv.br/.
 
 Bolsistas 
 -
-1) Caio Augusto Moreira;
+1)Caio Augusto Moreira;
 
 Graduando em Ciência da Computação;
 
@@ -45,7 +45,7 @@ Desenvoldedor.
 
 Universidade Federal de Viçosa - campus Florestal;
 
-2) Marcela Quiróz
+-Marcela Quiróz
 
 Graduanda em Ciências Biológicas
 
