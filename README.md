@@ -43,8 +43,6 @@ Bolsistas
 
 >Graduando em Ciência da Computação;
 
->Desenvoldedor.
-
 >Universidade Federal de Viçosa - campus Florestal;
 
 >LinkedIn: www.linkedin.com/in/caioamcampos
@@ -55,8 +53,6 @@ Bolsistas
 > Pesquisa em enino e roteiro
 
 >Graduanda em Ciências Biológicas
-
->Pesquisadora educacional.
 
 >Universidade Federal de Viçosa - campus Florestal;
 
