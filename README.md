@@ -7,7 +7,7 @@ NOTA
 
 Para jogar:
 -
-* Baixe ou clone o repositório para sua máquina. Certifíque-se de que todos os arquivos estarão na mesma pasta;
+* Baixe ou clone o repositório para sua máquina;
 * Clique em 'Laboratório de Biologia Molecular.exe';
 * Jogue e se divirta, não se esqueça de ler tudo o que os NPC's lhe informarem para tirar maior proveito da experiência;
 * Caso tenha alguma dúvida, sugestão ou crítica enviar pelos e-mails: helder.resende@ufv.br, marcela.cqb@gmail.com ou caioamcampos@gmail.com.
