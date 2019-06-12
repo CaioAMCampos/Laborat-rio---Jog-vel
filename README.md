@@ -15,15 +15,19 @@ Para jogar:
 
 Coordenação
 -
-- Profa. Dra. Gláucia Braga e Silva;
+* Ciência da Computação
 
-Núcleo de Pesquisa em Engenhaira de Software e Sistemas Colaborativos;
+>Profa. Dra. Gláucia Braga e Silva;
 
-Instituto de Exatas e Tecnológicas;
+>Núcleo de Pesquisa em Engenhaira de Software e Sistemas Colaborativos;
 
-Universidade Federal de Viçosa - campus UFV Florestal;
+>Instituto de Exatas e Tecnológicas;
 
-http://nupessc.caf.ufv.br/.
+>Universidade Federal de Viçosa - campus UFV Florestal;
+
+>http://nupessc.caf.ufv.br/.
+
+* Ciências Biologicas
 
 >Prof. Dr. Helder Canto Resende;
 
@@ -33,25 +37,30 @@ http://nupessc.caf.ufv.br/.
 
 >Universidade Federal de Viçosa - campus UFV Florestal;
 
-http://www.labee.caf.ufv.br/.
+>http://www.labee.caf.ufv.br/.
 
 Bolsistas 
 -
-1)Caio Augusto Moreira;
+* Desenvolvimento do laboratório
 
-Graduando em Ciência da Computação;
+>Caio Augusto Moreira;
 
-Desenvoldedor.
+>Graduando em Ciência da Computação;
 
-Universidade Federal de Viçosa - campus Florestal;
+>Desenvoldedor.
 
--Marcela Quiróz
+>Universidade Federal de Viçosa - campus Florestal;
+>LinkedIn: www.linkedin.com/in/caioamcampos
 
-Graduanda em Ciências Biológicas
+* Pesquisa em enino e roteiro
 
-Pesquisadora educacional.
+>Marcela Quiróz
 
-Universidade Federal de Viçosa - campus Florestal;
+>Graduanda em Ciências Biológicas
+
+>Pesquisadora educacional.
+
+>Universidade Federal de Viçosa - campus Florestal;
 
 Apoio e Financiamento: Universidade Federal de Viçosa.
 -
