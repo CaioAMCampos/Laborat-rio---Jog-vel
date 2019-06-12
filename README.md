@@ -16,27 +16,41 @@ Para jogar:
 Coordenação
 -
 Profa. Dra. Gláucia Braga e Silva;
+
 Núcleo de Pesquisa em Engenhaira de Software e Sistemas Colaborativos;
+
 Instituto de Exatas e Tecnológicas;
+
 Universidade Federal de Viçosa - campus UFV Florestal;
+
 http://nupessc.caf.ufv.br/.
 
 Prof. Dr. Helder Canto Resende;
+
 Laboratório de Genética da Conservação;
+
 Instituto de Ciências Biológicas e da Saúde;
+
 Universidade Federal de Viçosa - campus UFV Florestal;
+
 http://www.labee.caf.ufv.br/.
 
 Bolsistas 
 -
 Caio Augusto Moreira;
+
 Graduando em Ciência da Computação;
+
 Desenvoldedor.
+
 Universidade Federal de Viçosa - campus Florestal;
 
 Marcela Quiróz
+
 Graduanda em Ciências Biológicas
+
 Pesquisadora educacional.
+
 Universidade Federal de Viçosa - campus Florestal;
 
 Apoio e Financiamento: Universidade Federal de Viçosa.
