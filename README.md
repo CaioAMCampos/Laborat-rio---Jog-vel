@@ -1,5 +1,5 @@
 # Laboratorio Jogável
-Laboratório de Biologia Molecular Investigativo - versão jogável.
+Simulador de laboratório de biologia molecular utilizando o ensino investigativo como ferramenta de aprendizagem - versão jogável.
 
 NOTA
 -
